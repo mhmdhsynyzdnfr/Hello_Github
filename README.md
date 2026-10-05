@@ -11,15 +11,9 @@ This is an interactive, hacker-style command-line interface (CLI) script built w
 - 🌈 Colorized terminal output (Windows/Linux/Mac compatible)
 
 ## 🧑‍💻 About Me
-I'm a 20-year-old Computer Engineering student at Shahid Beheshti University (based in Tehran, Iran). I am passionate about Game Development, Artificial Intelligence, and low-level system design. 
+I'm 20, studying computer engineering at Shahid Beheshti University. I'm super interested in the computer world and have tried dipping my toes into a bunch of different fields. Game dev is my favorite, but I love learning how to code any kind of program using Python. I've tackled various university projects, run into plenty of bugs and problems along the way, and worked hard to figure them out.
 
-**My Tech Stack & Skills:**
-- **Languages:** Python (Advanced), C++, C#
-- **Game Development:** Unity, 2D Pixel Art Games
-- **Hardware & Systems:** Verilog, Assembly (RISC-V / Mano)
-- **Web & Databases:** Flask, HTML, CSS, SQL
-- **Tools:** Git, Linux
-
+I'm here and I love to learn, so hello
 ## 🚀 How to Run
 
 1. Make sure you have [Python](https://www.python.org/) installed on your system.
